@@ -16,15 +16,10 @@ Med Reminder is a modern Android application designed to help users track and ma
 - **Timed Notifications**: Receive notifications exactly when you need to take your medication
 
 ## Screenshots
-
-<div style="display: flex; flex-direction: row;">
+ ![image](https://github.com/user-attachments/assets/dbbc4fd3-c32e-4567-8dae-f2cb9cbbb24f)
+ ![image](https://github.com/user-attachments/assets/9b55b696-8400-44ba-be44-8d4930335fd3)
+ ![image](https://github.com/user-attachments/assets/fe7ed24f-8e4f-4775-88c8-3aeb235618a6)
  
-
- <img src=" ![image](https://github.com/user-attachments/assets/dbbc4fd3-c32e-4567-8dae-f2cb9cbbb24f)" width="250" alt="Empty State">
-  <img src="/screenshots/medication_list.png" width="250" alt="Medication List">
-  <img src="/screenshots/add_medication.png" width="250" alt="Add Medication">
-</div>
-
 ## Technology Stack
 
 - **Kotlin**: Primary programming language
@@ -45,7 +40,7 @@ Med Reminder is a modern Android application designed to help users track and ma
 4. Build and run the application
 
 ```bash
-git clone https://github.com/yourusername/medication-reminder-app.git
+git clone https://github.com/yourusername/-medication_reminder_app.git
 cd medication-reminder-app
 ```
 
@@ -80,19 +75,6 @@ cd medication-reminder-app
 - User profiles for managing medications for multiple people
 - Export/Import functionality
 
-## Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -100,6 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
 - [Android Alarm Manager](https://developer.android.com/reference/android/app/AlarmManager)
 
-## Contact
-
-Project Link: [https://github.com/yourusername/medication-reminder-app](https://github.com/yourusername/medication-reminder-app)
