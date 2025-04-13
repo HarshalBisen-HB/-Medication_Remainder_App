@@ -16,9 +16,7 @@ Med Reminder is a modern Android application designed to help users track and ma
 - **Timed Notifications**: Receive notifications exactly when you need to take your medication
 
 ## Screenshots
- ![image](https://github.com/user-attachments/assets/dbbc4fd3-c32e-4567-8dae-f2cb9cbbb24f)
- ![image](https://github.com/user-attachments/assets/9b55b696-8400-44ba-be44-8d4930335fd3)
- ![image](https://github.com/user-attachments/assets/fe7ed24f-8e4f-4775-88c8-3aeb235618a6)
+ ![image](https://github.com/user-attachments/assets/dbbc4fd3-c32e-4567-8dae-f2cb9cbbb24f) ![image](https://github.com/user-attachments/assets/9b55b696-8400-44ba-be44-8d4930335fd3)![image](https://github.com/user-attachments/assets/fe7ed24f-8e4f-4775-88c8-3aeb235618a6)
  
 ## Technology Stack
 
